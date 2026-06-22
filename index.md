@@ -1,3 +1,10 @@
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
 ## About Me
 
 Marketing and campaign operations professional with experience supporting large-scale campaigns for Amazon Prime Video Canada.
