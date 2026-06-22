@@ -1,4 +1,3 @@
-markdown-body { background-color: #eaf3ff !important;
 
 ## About Me
 
