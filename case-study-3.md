@@ -81,3 +81,5 @@ One of the most important lessons from this experience was that lasting improvem
 The most effective changes emerged from understanding how people worked, where they struggled, and what they needed in order to succeed.
 
 By combining operational thinking with a people-first approach, I was able to help drive improvements that benefited both business outcomes and team effectiveness.
+
+[← Back to Home](./index.md)
