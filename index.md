@@ -1,5 +1,9 @@
 <style>
-body {
+html, body {
+  background-color: #eaf3ff !important;
+}
+
+.markdown-body {
   background-color: #eaf3ff !important;
 }
 </style>
