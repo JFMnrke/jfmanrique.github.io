@@ -1,12 +1,3 @@
-<style>
-html, body {
-  background-color: #eaf3ff !important;
-}
-
-.markdown-body {
-  background-color: #eaf3ff !important;
-}
-</style>
 
 ## About Me
 
