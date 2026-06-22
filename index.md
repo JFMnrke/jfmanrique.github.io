@@ -1,9 +1,8 @@
-<head>
-  <meta charset="UTF-8">
-  <title>Portfolio</title>
-
-  <link rel="stylesheet" href="style.css">
-</head>
+<style>
+body {
+  background-color: #eaf3ff !important;
+}
+</style>
 
 ## About Me
 
